@@ -1,3 +1,4 @@
+http://example.com/about/index.html
 http://example.com/music/index.html
 http://example.com/muyu/index.html
 http://example.com/2023/01/06/%E9%B8%BD%E5%AD%90%E7%AA%9D%E5%8D%9A%E5%AE%A2%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF%EF%BC%81/
@@ -17,11 +18,6 @@ http://example.com/tags/%E9%9F%B3%E6%B8%B8/
 http://example.com/tags/lowiro/
 http://example.com/tags/%E6%91%98%E6%98%9F/
 http://example.com/tags/ptt/
-http://example.com/tags/%E4%B8%8A%E7%BA%BF/
-http://example.com/tags/%E9%B8%BD%E5%AD%90%E7%AA%9D/
-http://example.com/tags/PigeonKing/
-http://example.com/tags/%E9%B8%BD%E7%8E%8B/
-http://example.com/tags/%E5%8D%9A%E5%AE%A2/
 http://example.com/tags/%E6%9F%90%E5%B9%BB%E5%90%9B/
 http://example.com/tags/bilibili/
 http://example.com/tags/%E6%97%A5%E5%B8%B8/
@@ -29,6 +25,11 @@ http://example.com/tags/%E7%9B%B4%E6%92%AD/
 http://example.com/tags/phigros/
 http://example.com/tags/%E6%B8%B8%E6%88%8F/
 http://example.com/tags/%E5%A8%B1%E4%B9%90/
+http://example.com/tags/%E4%B8%8A%E7%BA%BF/
+http://example.com/tags/%E9%B8%BD%E5%AD%90%E7%AA%9D/
+http://example.com/tags/PigeonKing/
+http://example.com/tags/%E9%B8%BD%E7%8E%8B/
+http://example.com/tags/%E5%8D%9A%E5%AE%A2/
 http://example.com/categories/%E9%9F%B3%E6%B8%B8/
-http://example.com/categories/%E5%8D%9A%E5%AE%A2%E5%8F%91%E5%B8%83/
 http://example.com/categories/%E6%9F%90%E5%B9%BB%E5%90%9B/
+http://example.com/categories/%E5%8D%9A%E5%AE%A2%E5%8F%91%E5%B8%83/
