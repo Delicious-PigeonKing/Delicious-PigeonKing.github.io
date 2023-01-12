@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>PigeonKingの鸽子窝</title>
+  
+  <subtitle>一只很能鸽的鸽子</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2023-01-06T13:11:00.732Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>PigeonKing</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>鸽子窝博客正式上线！</title>
+    <link href="http://example.com/2023/01/06/%E9%B8%BD%E5%AD%90%E7%AA%9D%E5%8D%9A%E5%AE%A2%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF%EF%BC%81/"/>
+    <id>http://example.com/2023/01/06/%E9%B8%BD%E5%AD%90%E7%AA%9D%E5%8D%9A%E5%AE%A2%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF%EF%BC%81/</id>
+    <published>2023-01-06T13:07:23.000Z</published>
+    <updated>2023-01-06T13:11:00.732Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>一个初三生自主学习并参考大佬博客创作的博客上线了！<br>日后会继续深造学习编程，希望得到各位大佬指点，也感谢鸽子窝每一位关注者的支持！<br>咕咕咕咕咕</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="博客发布" scheme="http://example.com/categories/%E5%8D%9A%E5%AE%A2%E5%8F%91%E5%B8%83/"/>
+    
+    
+    <category term="上线" scheme="http://example.com/tags/%E4%B8%8A%E7%BA%BF/"/>
+    
+    <category term="鸽子窝" scheme="http://example.com/tags/%E9%B8%BD%E5%AD%90%E7%AA%9D/"/>
+    
+    <category term="PigeonKing" scheme="http://example.com/tags/PigeonKing/"/>
+    
+    <category term="鸽王" scheme="http://example.com/tags/%E9%B8%BD%E7%8E%8B/"/>
+    
+    <category term="博客" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>友情链接：分享某幻の日常</title>
+    <link href="http://example.com/2023/01/04/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5%EF%BC%9A%E5%88%86%E4%BA%AB%E6%9F%90%E5%B9%BB%E3%81%AE%E6%97%A5%E5%B8%B8/"/>
+    <id>http://example.com/2023/01/04/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5%EF%BC%9A%E5%88%86%E4%BA%AB%E6%9F%90%E5%B9%BB%E3%81%AE%E6%97%A5%E5%B8%B8/</id>
+    <published>2023-01-04T02:22:39.000Z</published>
+    <updated>2023-01-05T09:00:15.314Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>【某幻君直播切片】马哥的无敌之作 超屌！<br>B站跳转链接：<a href="https://www.bilibili.com/video/BV1G8411E7XF/?spm_id_from=333.999.0.0&vd_source=0fff0b0803d6bccc5f444caf62f36643">https://www.bilibili.com/video/BV1G8411E7XF/?spm_id_from=333.999.0.0&amp;vd_source=0fff0b0803d6bccc5f444caf62f36643</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="某幻君" scheme="http://example.com/categories/%E6%9F%90%E5%B9%BB%E5%90%9B/"/>
+    
+    
+    <category term="某幻君" scheme="http://example.com/tags/%E6%9F%90%E5%B9%BB%E5%90%9B/"/>
+    
+    <category term="bilibili" scheme="http://example.com/tags/bilibili/"/>
+    
+    <category term="日常" scheme="http://example.com/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+    <category term="直播" scheme="http://example.com/tags/%E7%9B%B4%E6%92%AD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>12.26arcaea摘星记录！</title>
+    <link href="http://example.com/2023/01/04/12-26arcaea%E6%91%98%E6%98%9F%E8%AE%B0%E5%BD%95%EF%BC%81/"/>
+    <id>http://example.com/2023/01/04/12-26arcaea%E6%91%98%E6%98%9F%E8%AE%B0%E5%BD%95%EF%BC%81/</id>
+    <published>2023-01-04T01:55:42.000Z</published>
+    <updated>2023-01-05T08:59:09.199Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>本人于2022年12月26日摘星成功<br>截至目前2023.1.4ptt为12.15</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="音游" scheme="http://example.com/categories/%E9%9F%B3%E6%B8%B8/"/>
+    
+    
+    <category term="arcaea" scheme="http://example.com/tags/arcaea/"/>
+    
+    <category term="音乐游戏" scheme="http://example.com/tags/%E9%9F%B3%E4%B9%90%E6%B8%B8%E6%88%8F/"/>
+    
+    <category term="音游" scheme="http://example.com/tags/%E9%9F%B3%E6%B8%B8/"/>
+    
+    <category term="lowiro" scheme="http://example.com/tags/lowiro/"/>
+    
+    <category term="摘星" scheme="http://example.com/tags/%E6%91%98%E6%98%9F/"/>
+    
+    <category term="ptt" scheme="http://example.com/tags/ptt/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>“鸽王第一条B站音游视频”</title>
+    <link href="http://example.com/2023/01/04/%E9%B8%BD%E7%8E%8B%E7%AC%AC%E4%B8%80%E6%9D%A1B%E7%AB%99%E8%A7%86%E9%A2%91/"/>
+    <id>http://example.com/2023/01/04/%E9%B8%BD%E7%8E%8B%E7%AC%AC%E4%B8%80%E6%9D%A1B%E7%AB%99%E8%A7%86%E9%A2%91/</id>
+    <published>2023-01-04T01:55:08.000Z</published>
+    <updated>2023-01-05T08:59:55.338Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>【phigros】圣诞快乐！再炒一下去年圣诞曲的冷饭吧（），ジングルベル（Jingle bell）All Perfect 评级<br>视频链接：<a href="https://www.bilibili.com/video/BV1g24y1S7T5/?spm_id_from=333.999.0.0&vd_source=0fff0b0803d6bccc5f444caf62f36643">https://www.bilibili.com/video/BV1g24y1S7T5/?spm_id_from=333.999.0.0&amp;vd_source=0fff0b0803d6bccc5f444caf62f36643</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="音游" scheme="http://example.com/categories/%E9%9F%B3%E6%B8%B8/"/>
+    
+    
+    <category term="音游" scheme="http://example.com/tags/%E9%9F%B3%E6%B8%B8/"/>
+    
+    <category term="phigros" scheme="http://example.com/tags/phigros/"/>
+    
+    <category term="游戏" scheme="http://example.com/tags/%E6%B8%B8%E6%88%8F/"/>
+    
+    <category term="娱乐" scheme="http://example.com/tags/%E5%A8%B1%E4%B9%90/"/>
+    
+  </entry>
+  
+</feed>
