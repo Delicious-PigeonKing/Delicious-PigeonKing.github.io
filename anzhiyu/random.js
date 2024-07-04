@@ -1,4 +1,4 @@
-var posts=["2023/05/02/双星达成！！！/","2024/07/02/暑假干什么/","2024/07/02/记一次小事/","2024/07/02/高一结束了！！/"];function toRandomPost(){
+var posts=["2023/05/02/双星达成！！！/","2024/07/04/速报 我OMAKENO Stroke BYD10杀了~/","2024/07/02/记一次小事/","2024/07/02/暑假干什么/","2024/07/02/高一结束了！！/"];function toRandomPost(){
     pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
   };var friend_link_list=[{"name":"Delicious-PigeonKing","link":"https://delicious-pigeonking.github.io/","avatar":"https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg","descr":"笔耕不辍，心向远方","siteshot":"https://npm.elemecdn.com/anzhiyu-theme-static@1.1.6/img/blog.anheyu.com.jpg","color":"vip","tag":"技术"},{"name":"Delicious-PigeonKing","link":"https://delicious-pigeonking.github.io/","avatar":"https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg","descr":"笔耕不辍，心向远方","recommend":true}];
     var refreshNum = 1;
